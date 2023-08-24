@@ -1,5 +1,5 @@
 - 👋 Hi, I’m suryaprakash
-- 👀 I’m interested in job for web development
+- 👀 I’m interested in job for software engineer and web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
